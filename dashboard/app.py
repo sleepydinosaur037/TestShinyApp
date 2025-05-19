@@ -20,7 +20,7 @@ for m in data:
 steps = [i for i in range(len(points))]
 
 
-ui.page_opts(title="Penguins dashboard", fillable=True)
+ui.page_opts(title="FRC API Fun", fillable=True)
 
 
 with ui.sidebar(title="Filter controls"):
